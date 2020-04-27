@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+    justify-content: center;
+    text-align: center;
+    top: 50%;
+    display: flex;
+}
+a{
+    position: relative;
+    margin-top:50%;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 17px;
+}
+.content{
+    position:absolute;
+    top: 40%;
+    justify-content: center;
+}
+head {
+    display: none;
+}
